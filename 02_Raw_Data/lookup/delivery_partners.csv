@@ -1,11 +1,11 @@
 DeliveryPartnerID,PartnerName,ServiceType,ContactNumber,TrackingSupported,IsActive
-1,Blue Dart,Express,+91-1800-233-1234,Yes,Yes
-2,Delhivery,Standard,+91-124-6719500,Yes,Yes
-3,DTDC,Courier,+91-7305770577,Yes,Yes
-4,Ekart Logistics,E-commerce,+91-1800-208-9898,Yes,Yes
-5,Xpressbees,Express,+91-020-49116100,Yes,Yes
-6,India Post,Postal,+91-1800-266-6868,Limited,Yes
-7,Ecom Express,E-commerce,+91-8376888888,Yes,Yes
-8,Shadowfax,Hyperlocal,+91-8047171111,Yes,Yes
-9,DHL,International,+91-124-4495100,Yes,Yes
-10,FedEx,International,+91-1800-209-6161,Yes,Yes
+1,Blue Dart,Express,-3176,Yes,Yes
+2,Delhivery,Standard,-6719533,Yes,Yes
+3,DTDC,Courier,-7305770486,Yes,Yes
+4,Ekart Logistics,E-commerce,-11815,Yes,Yes
+5,Xpressbees,Express,-49116029,Yes,Yes
+6,India Post,Postal,-8843,Limited,Yes
+7,Ecom Express,E-commerce,-8376888797,Yes,Yes
+8,Shadowfax,Hyperlocal,-8047171020,Yes,Yes
+9,DHL,International,-4495133,Yes,Yes
+10,FedEx,International,-8079,Yes,Yes
