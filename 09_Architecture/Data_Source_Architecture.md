@@ -80,5 +80,3 @@ Employee Attendance
 ## Section 6 – Initial Architecture
 
 <img width="212" height="1122" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/ecc2ecb1-2fc3-482a-b742-c475c24d7686" />
-
-## Sample
