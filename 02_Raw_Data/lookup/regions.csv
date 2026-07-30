@@ -1,0 +1,37 @@
+RegionID,State,StateCode,Zone,GSTRegion,Country
+1,Andhra Pradesh,AP,South,South,India
+2,Arunachal Pradesh,AR,North-East,North-East,India
+3,Assam,AS,North-East,North-East,India
+4,Bihar,BR,East,East,India
+5,Chhattisgarh,CG,Central,Central,India
+6,Goa,GA,West,West,India
+7,Gujarat,GJ,West,West,India
+8,Haryana,HR,North,North,India
+9,Himachal Pradesh,HP,North,North,India
+10,Jharkhand,JH,East,East,India
+11,Karnataka,KA,South,South,India
+12,Kerala,KL,South,South,India
+13,Madhya Pradesh,MP,Central,Central,India
+14,Maharashtra,MH,West,West,India
+15,Manipur,MN,North-East,North-East,India
+16,Meghalaya,ML,North-East,North-East,India
+17,Mizoram,MZ,North-East,North-East,India
+18,Nagaland,NL,North-East,North-East,India
+19,Odisha,OD,East,East,India
+20,Punjab,PB,North,North,India
+21,Rajasthan,RJ,North,North,India
+22,Sikkim,SK,North-East,North-East,India
+23,Tamil Nadu,TN,South,South,India
+24,Telangana,TS,South,South,India
+25,Tripura,TR,North-East,North-East,India
+26,Uttar Pradesh,UP,North,North,India
+27,Uttarakhand,UK,North,North,India
+28,West Bengal,WB,East,East,India
+29,Delhi,DL,North,North,India
+30,Jammu and Kashmir,JK,North,North,India
+31,Ladakh,LA,North,North,India
+32,Chandigarh,CH,North,North,India
+33,Dadra and Nagar Haveli and Daman and Diu,DH,West,West,India
+34,Lakshadweep,LD,South,South,India
+35,Puducherry,PY,South,South,India
+36,Andaman and Nicobar Islands,AN,East,East,India

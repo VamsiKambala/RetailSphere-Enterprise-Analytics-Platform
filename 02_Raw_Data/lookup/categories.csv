@@ -1,0 +1,26 @@
+CategoryID,CategoryName,Department,GSTSlab,IsActive
+1,Electronics,Technology,18,Yes
+2,Mobile Phones,Technology,18,Yes
+3,Computers & Accessories,Technology,18,Yes
+4,Home Appliances,Home,18,Yes
+5,Fashion,Apparel,12,Yes
+6,Men's Clothing,Apparel,12,Yes
+7,Women's Clothing,Apparel,12,Yes
+8,Footwear,Apparel,12,Yes
+9,Beauty & Personal Care,Lifestyle,18,Yes
+10,Grocery,FMCG,5,Yes
+11,Food & Beverages,FMCG,5,Yes
+12,Home & Kitchen,Home,18,Yes
+13,Furniture,Home,18,Yes
+14,Sports & Fitness,Lifestyle,18,Yes
+15,Toys & Games,Kids,12,Yes
+16,Baby Care,Kids,12,Yes
+17,Books & Stationery,Education,5,Yes
+18,Jewellery,Luxury,3,Yes
+19,Watches,Accessories,18,Yes
+20,Automotive Accessories,Automotive,28,Yes
+21,Pet Supplies,Lifestyle,18,Yes
+22,Office Supplies,Business,18,Yes
+23,Health Care,Healthcare,12,Yes
+24,Gardening,Home,18,Yes
+25,Gift Cards,Services,0,Yes

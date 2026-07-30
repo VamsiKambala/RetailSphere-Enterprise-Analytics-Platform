@@ -1,0 +1,19 @@
+PromotionTypeID,PromotionType,DiscountType,ApplicableOn,Description,IsActive
+1,Percentage Discount,Percentage,Order,Percentage discount on the total order value,Yes
+2,Flat Discount,Flat Amount,Order,Fixed amount discount on the total order,Yes
+3,Buy One Get One (BOGO),BOGO,Product,Buy one product and get another free,Yes
+4,Buy X Get Y,BOGO,Product,Purchase a specified quantity to receive another product,Yes
+5,Free Shipping,Shipping,Order,Free shipping on eligible orders,Yes
+6,Cashback,Cashback,Payment,Cashback credited after successful purchase,Yes
+7,Bank Offer,Bank Discount,Payment,Discount available for selected bank cards,Yes
+8,Wallet Offer,Wallet Discount,Payment,Discount for wallet-based payments,Yes
+9,Festival Sale,Seasonal,Order,Special discounts during festivals and holidays,Yes
+10,Flash Sale,Limited Time,Product,Limited-time promotional pricing,Yes
+11,Clearance Sale,Inventory Clearance,Product,Discounts to clear existing inventory,Yes
+12,Combo Offer,Bundle,Product,Discount on purchasing bundled products,Yes
+13,Loyalty Reward,Loyalty,Customer,Special offer for loyalty program members,Yes
+14,First Order Offer,Customer Acquisition,Customer,Discount for first-time customers,Yes
+15,Referral Bonus,Referral,Customer,Reward for referring new customers,Yes
+16,Coupon Code,Coupon,Order,Discount applied using a valid coupon code,Yes
+17,Employee Discount,Internal,Customer,Special pricing for employees,Yes
+18,No Promotion,None,NA,No promotional offer applied,Yes

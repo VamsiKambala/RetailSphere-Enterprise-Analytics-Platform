@@ -1,0 +1,19 @@
+ReturnReasonID,ReturnReason,ReasonCategory,CustomerResponsible,IsActive
+1,Damaged Product,Quality,No,Yes
+2,Defective Product,Quality,No,Yes
+3,Wrong Item Delivered,Fulfillment,No,Yes
+4,Missing Parts or Accessories,Fulfillment,No,Yes
+5,Product Not as Described,Expectation,No,Yes
+6,Size Too Small,Customer Preference,Yes,Yes
+7,Size Too Large,Customer Preference,Yes,Yes
+8,Color Not as Expected,Customer Preference,Yes,Yes
+9,Changed Mind,Customer Preference,Yes,Yes
+10,Ordered by Mistake,Customer Error,Yes,Yes
+11,Duplicate Order,Customer Error,Yes,Yes
+12,Late Delivery,Logistics,No,Yes
+13,Received After Event,Logistics,No,Yes
+14,Better Price Available Elsewhere,Pricing,Yes,Yes
+15,Quality Not Satisfactory,Quality,No,Yes
+16,Product Expired,Quality,No,Yes
+17,Incomplete Package,Fulfillment,No,Yes
+18,Other,General,Yes,Yes

@@ -1,0 +1,13 @@
+PaymentMethodID,PaymentMethod,PaymentCategory,IsOnline,IsActive
+1,Credit Card,Card,Yes,Yes
+2,Debit Card,Card,Yes,Yes
+3,UPI,Digital,Yes,Yes
+4,Net Banking,Banking,Yes,Yes
+5,Cash,Cash,No,Yes
+6,Cash on Delivery,Cash,No,Yes
+7,Wallet,Digital,Yes,Yes
+8,EMI,Financing,Yes,Yes
+9,Gift Card,Voucher,Yes,Yes
+10,Store Credit,Store,Yes,Yes
+11,Buy Now Pay Later,Financing,Yes,Yes
+12,Bank Transfer,Banking,Yes,Yes
