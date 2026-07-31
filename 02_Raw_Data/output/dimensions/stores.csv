@@ -1,200 +1,201 @@
 StoreID,CityID,ManagerName,StoreName,StoreType,ContactNumber,OpeningDate,IsActive,Email
-ST0001,C071,Alka Kamdar,RetailSphere Imphal ST0001,Physical Store,9876225379,2019-04-19,Yes,st0001@retailsphere.com
-ST0002,C110,Mohammed Oza,RetailSphere Roorkee ST0002,Physical Store,9107541360,2019-02-14,Yes,st0002@retailsphere.com
-ST0003,C054,Ojas Dhillon,RetailSphere Hubballi ST0003,Physical Store,9470390784,2025-05-24,Yes,st0003@retailsphere.com
-ST0004,C125,Pushti Dani,RetailSphere Silvassa ST0004,Physical Store,9151852602,2024-08-27,No,st0004@retailsphere.com
-ST0005,C032,Anthony Chakrabarti,RetailSphere Surat ST0005,Warehouse,9543897466,2025-07-11,Yes,st0005@retailsphere.com
-ST0006,C102,Quincy Sinha,RetailSphere Lucknow ST0006,Physical Store,9853171658,2017-01-29,Yes,st0006@retailsphere.com
-ST0007,C119,Gayathri Deep,RetailSphere Jammu ST0007,Physical Store,9634063063,2026-06-01,Yes,st0007@retailsphere.com
-ST0008,C056,Avni Rattan,RetailSphere Thiruvananthapuram ST0008,Physical Store,9635257351,2024-11-29,Yes,st0008@retailsphere.com
-ST0009,C117,Warjas Pathak,RetailSphere New Delhi ST0009,Physical Store,9538191219,2024-06-18,Yes,st0009@retailsphere.com
-ST0010,C117,Kamya Viswanathan,RetailSphere New Delhi ST0010,Physical Store,9139877800,2017-12-11,Yes,st0010@retailsphere.com
-ST0011,C080,Bhavna Manne,RetailSphere Ludhiana ST0011,Physical Store,9253743431,2024-12-28,Yes,st0011@retailsphere.com
-ST0012,C021,Unnati Subramanian,RetailSphere Raipur ST0012,Physical Store,9102448010,2018-06-20,Yes,st0012@retailsphere.com
-ST0013,C110,Rohan Bajaj,RetailSphere Roorkee ST0013,Physical Store,9671329608,2020-10-22,Yes,st0013@retailsphere.com
-ST0014,C091,Janani Desai,RetailSphere Chennai ST0014,Physical Store,9119442689,2025-12-12,Yes,st0014@retailsphere.com
-ST0015,C083,Chasmum Chaudhry,RetailSphere Patiala ST0015,Physical Store,9178925175,2018-03-29,Yes,st0015@retailsphere.com
-ST0016,C077,Shivani Nazareth,RetailSphere Rourkela ST0016,Physical Store,9119611979,2024-01-29,No,st0016@retailsphere.com
-ST0017,C112,Osha Muni,RetailSphere Kolkata ST0017,Physical Store,9236482992,2019-03-12,Yes,st0017@retailsphere.com
-ST0018,C016,Kabir Raja,RetailSphere Patna ST0018,Distribution Center,9215173528,2018-07-10,Yes,st0018@retailsphere.com
-ST0019,C098,Mugdha Mukhopadhyay,RetailSphere Karimnagar ST0019,Physical Store,9831554802,2017-11-02,Yes,st0019@retailsphere.com
-ST0020,C011,Hema Borah,RetailSphere Guwahati ST0020,Physical Store,9798436079,2017-11-06,Yes,st0020@retailsphere.com
-ST0021,C100,Triya Srinivasan,RetailSphere Nizamabad ST0021,Physical Store,9266577651,2020-10-07,Yes,st0021@retailsphere.com
-ST0022,C033,Guneet Agate,RetailSphere Vadodara ST0022,Physical Store,9273461302,2026-01-16,Yes,st0022@retailsphere.com
-ST0023,C063,Aadi Gera,RetailSphere Jabalpur ST0023,Physical Store,9981111251,2018-07-29,Yes,st0023@retailsphere.com
-ST0024,C016,Aahana Dhar,RetailSphere Patna ST0024,Physical Store,9976239209,2017-01-11,Yes,st0024@retailsphere.com
-ST0025,C070,Onkar Deo,RetailSphere Thane ST0025,Physical Store,9365039295,2022-03-15,Yes,st0025@retailsphere.com
-ST0026,C085,Hemani Bhatnagar,RetailSphere Jaipur ST0026,Physical Store,9396212747,2016-10-15,Yes,st0026@retailsphere.com
-ST0027,C031,Falak Dhawan,RetailSphere Ahmedabad ST0027,Physical Store,9254847722,2022-03-22,Yes,st0027@retailsphere.com
-ST0028,C018,Varenya Rau,RetailSphere Muzaffarpur ST0028,Physical Store,9426219596,2022-08-30,Yes,st0028@retailsphere.com
-ST0029,C102,Chasmum Krishnamurthy,RetailSphere Lucknow ST0029,Physical Store,9213081159,2021-12-14,Yes,st0029@retailsphere.com
-ST0030,C041,Forum Pradhan,RetailSphere Shimla ST0030,Distribution Center,9940413760,2018-04-19,Yes,st0030@retailsphere.com
-ST0031,C021,Umang Char,RetailSphere Raipur ST0031,Physical Store,9673431269,2022-05-16,Yes,st0031@retailsphere.com
-ST0032,C104,Kashvi Chatterjee,RetailSphere Varanasi ST0032,Physical Store,9863942146,2019-08-26,Yes,st0032@retailsphere.com
-ST0033,C107,Eiravati Bhattacharyya,RetailSphere Dehradun ST0033,Physical Store,9486138942,2018-08-04,Yes,st0033@retailsphere.com
-ST0034,C117,Benjamin Sharma,RetailSphere New Delhi ST0034,Warehouse,9110059789,2026-04-22,Yes,st0034@retailsphere.com
-ST0035,C117,Warinder Dani,RetailSphere New Delhi ST0035,Warehouse,9252479918,2022-01-03,Yes,st0035@retailsphere.com
-ST0036,C070,Samesh Mall,RetailSphere Thane ST0036,Physical Store,9696931140,2021-11-25,Yes,st0036@retailsphere.com
-ST0037,C090,Om Chandra,RetailSphere Gangtok ST0037,Physical Store,9717905100,2017-03-25,Yes,st0037@retailsphere.com
-ST0038,C037,Alexander Misra,RetailSphere Faridabad ST0038,Warehouse,9178227808,2017-08-20,Yes,st0038@retailsphere.com
-ST0039,C016,Chaitaly Patla,RetailSphere Patna ST0039,Physical Store,9956837115,2018-04-18,Yes,st0039@retailsphere.com
-ST0040,C018,Fitan Khurana,RetailSphere Muzaffarpur ST0040,Physical Store,9552025617,2017-08-27,Yes,st0040@retailsphere.com
-ST0041,C101,Anamika Datta,RetailSphere Agartala ST0041,Physical Store,9767175908,2025-09-22,Yes,st0041@retailsphere.com
-ST0042,C105,David Tak,RetailSphere Agra ST0042,Physical Store,9847154810,2018-04-30,Yes,st0042@retailsphere.com
-ST0043,C079,Umang Ratta,RetailSphere Puri ST0043,Physical Store,9318996668,2021-11-25,Yes,st0043@retailsphere.com
-ST0044,C121,Chasmum Bumb,RetailSphere Kargil ST0044,Distribution Center,9331641117,2020-01-16,Yes,st0044@retailsphere.com
-ST0045,C090,Chandresh Tandon,RetailSphere Gangtok ST0045,Physical Store,9893812319,2023-12-08,Yes,st0045@retailsphere.com
-ST0046,C126,Lila Varty,RetailSphere Kavaratti ST0046,Physical Store,9132926358,2017-07-02,Yes,st0046@retailsphere.com
-ST0047,C118,Krish Dani,RetailSphere Srinagar ST0047,Warehouse,9290480044,2020-01-13,Yes,st0047@retailsphere.com
-ST0048,C123,Raksha Deshpande,RetailSphere Daman ST0048,Warehouse,9675107662,2025-01-03,Yes,st0048@retailsphere.com
-ST0049,C003,Urmi Guha,RetailSphere Guntur ST0049,Physical Store,9136581248,2023-04-13,Yes,st0049@retailsphere.com
-ST0050,C076,Hitesh Pandya,RetailSphere Cuttack ST0050,Physical Store,9502775573,2022-01-26,Yes,st0050@retailsphere.com
-ST0051,C068,Rajeshri Shere,RetailSphere Nagpur ST0051,Physical Store,9718561613,2018-04-08,Yes,st0051@retailsphere.com
-ST0052,C089,Ekani Devan,RetailSphere Ajmer ST0052,Physical Store,9742352847,2023-06-22,Yes,st0052@retailsphere.com
-ST0053,C115,Udant Badal,RetailSphere Durgapur ST0053,Physical Store,9635115630,2025-10-04,Yes,st0053@retailsphere.com
-ST0054,C115,Jeevika Sem,RetailSphere Durgapur ST0054,Physical Store,9204778414,2019-12-29,Yes,st0054@retailsphere.com
-ST0055,C013,Bhavna Thakkar,RetailSphere Silchar ST0055,Physical Store,9417768143,2024-04-16,Yes,st0055@retailsphere.com
-ST0056,C127,Nitara Aurora,RetailSphere Puducherry ST0056,Physical Store,9219296509,2023-04-17,Yes,st0056@retailsphere.com
-ST0057,C123,Oliver Jaggi,RetailSphere Daman ST0057,Physical Store,9392570215,2026-06-27,Yes,st0057@retailsphere.com
-ST0058,C044,Eta Soni,RetailSphere Mandi ST0058,Physical Store,9564780233,2019-06-23,Yes,st0058@retailsphere.com
-ST0059,C022,Indrajit Mangat,RetailSphere Bhilai ST0059,Physical Store,9507448131,2018-10-01,Yes,st0059@retailsphere.com
-ST0060,C028,Akshay Din,RetailSphere Vasco da Gama ST0060,Physical Store,9538137311,2024-06-16,No,st0060@retailsphere.com
-ST0061,C091,Wazir Mallick,RetailSphere Chennai ST0061,Physical Store,9278521053,2018-02-04,Yes,st0061@retailsphere.com
-ST0062,C089,Keya Bhatt,RetailSphere Ajmer ST0062,Physical Store,9451063304,2019-10-22,Yes,st0062@retailsphere.com
-ST0063,C090,Theodore Ravel,RetailSphere Gangtok ST0063,Physical Store,9235433123,2019-11-05,Yes,st0063@retailsphere.com
-ST0064,C100,Charles Raju,RetailSphere Nizamabad ST0064,Physical Store,9101059675,2018-05-15,Yes,st0064@retailsphere.com
-ST0065,C033,Quincy Choudhary,RetailSphere Vadodara ST0065,Physical Store,9413804911,2025-05-11,Yes,st0065@retailsphere.com
-ST0066,C102,Leena Chokshi,RetailSphere Lucknow ST0066,Physical Store,9489229216,2023-10-10,Yes,st0066@retailsphere.com
-ST0067,C019,Vidhi Nagarajan,RetailSphere Bhagalpur ST0067,Physical Store,9907453375,2025-09-06,Yes,st0067@retailsphere.com
-ST0068,C129,Zayan Pathak,RetailSphere Port Blair ST0068,Physical Store,9413291539,2019-01-12,Yes,st0068@retailsphere.com
-ST0069,C085,Urvi Sahota,RetailSphere Jaipur ST0069,Physical Store,9322255220,2022-02-21,Yes,st0069@retailsphere.com
-ST0070,C040,Isaiah Lala,RetailSphere Chandigarh (Haryana Capital) ST0070,Physical Store,9504791960,2017-01-01,Yes,st0070@retailsphere.com
-ST0071,C088,Mugdha Narula,RetailSphere Kota ST0071,Physical Store,9813599212,2021-05-23,Yes,st0071@retailsphere.com
-ST0072,C083,Chatura Kari,RetailSphere Patiala ST0072,Physical Store,9620670644,2026-04-01,Yes,st0072@retailsphere.com
-ST0073,C084,Ryan Saini,RetailSphere Chandigarh (Punjab Capital) ST0073,Physical Store,9930202564,2017-07-19,Yes,st0073@retailsphere.com
-ST0074,C082,Teerth Pathak,RetailSphere Jalandhar ST0074,Physical Store,9716770695,2020-09-20,Yes,st0074@retailsphere.com
-ST0075,C060,Dakshesh Yohannan,RetailSphere Kollam ST0075,Physical Store,9802281560,2026-06-23,Yes,st0075@retailsphere.com
-ST0076,C093,Ekaraj Gour,RetailSphere Madurai ST0076,Physical Store,9543937368,2017-09-27,Yes,st0076@retailsphere.com
-ST0077,C117,Samuel Dhar,RetailSphere New Delhi ST0077,Physical Store,9917225826,2018-11-30,Yes,st0077@retailsphere.com
-ST0078,C104,Aarnav Kari,RetailSphere Varanasi ST0078,Physical Store,9353016072,2022-07-25,Yes,st0078@retailsphere.com
-ST0079,C061,Ranveer Kapur,RetailSphere Bhopal ST0079,Physical Store,9538540515,2018-05-09,Yes,st0079@retailsphere.com
-ST0080,C066,Tanvi Kari,RetailSphere Mumbai ST0080,Physical Store,9334067631,2025-05-05,Yes,st0080@retailsphere.com
-ST0081,C091,Chaitaly Sangha,RetailSphere Chennai ST0081,Physical Store,9171336304,2022-03-29,Yes,st0081@retailsphere.com
-ST0082,C073,Aditya Bakshi,RetailSphere Aizawl ST0082,Physical Store,9266584561,2017-06-16,Yes,st0082@retailsphere.com
-ST0083,C051,Charvi Panchal,RetailSphere Bengaluru ST0083,Physical Store,9223307789,2022-05-29,Yes,st0083@retailsphere.com
-ST0084,C075,David Mutti,RetailSphere Bhubaneswar ST0084,Physical Store,9401312132,2023-12-11,Yes,st0084@retailsphere.com
-ST0085,C125,Naveen Shroff,RetailSphere Silvassa ST0085,Physical Store,9214294561,2024-12-04,Yes,st0085@retailsphere.com
-ST0086,C108,Forum Gola,RetailSphere Haridwar ST0086,Physical Store,9360073730,2018-06-17,Yes,st0086@retailsphere.com
-ST0087,C096,Harsh Iyer,RetailSphere Hyderabad ST0087,Warehouse,9727599875,2024-11-07,Yes,st0087@retailsphere.com
-ST0088,C027,Hiral Singh,RetailSphere Margao ST0088,Physical Store,9717930387,2022-12-18,Yes,st0088@retailsphere.com
-ST0089,C096,Vasana Goel,RetailSphere Hyderabad ST0089,Physical Store,9508714653,2018-03-17,Yes,st0089@retailsphere.com
-ST0090,C057,Urvashi Jayaraman,RetailSphere Kochi ST0090,Physical Store,9404599107,2016-11-20,Yes,st0090@retailsphere.com
-ST0091,C033,Yamini Bala,RetailSphere Vadodara ST0091,Physical Store,9476621563,2023-02-03,Yes,st0091@retailsphere.com
-ST0092,C058,Brinda Bhatia,RetailSphere Kozhikode ST0092,Physical Store,9584352789,2026-02-25,Yes,st0092@retailsphere.com
-ST0093,C128,Kalpit Dhar,RetailSphere Karaikal ST0093,Physical Store,9219760035,2016-11-16,Yes,st0093@retailsphere.com
-ST0094,C018,Oscar Srinivas,RetailSphere Muzaffarpur ST0094,Physical Store,9861234454,2018-02-10,Yes,st0094@retailsphere.com
-ST0095,C066,Dayamai Kale,RetailSphere Mumbai ST0095,Physical Store,9443140531,2025-05-09,Yes,st0095@retailsphere.com
-ST0096,C067,Eshana Ray,RetailSphere Pune ST0096,Physical Store,9612524567,2017-12-19,Yes,st0096@retailsphere.com
-ST0097,C121,Warhi Rao,RetailSphere Kargil ST0097,Physical Store,9350885782,2018-11-18,Yes,st0097@retailsphere.com
-ST0098,C015,Ryan Yogi,RetailSphere Jorhat ST0098,Physical Store,9305695536,2025-05-06,Yes,st0098@retailsphere.com
-ST0099,C033,Maya Gill,RetailSphere Vadodara ST0099,Physical Store,9431844993,2022-02-09,Yes,st0099@retailsphere.com
-ST0100,C026,Nathan Mutti,RetailSphere Panaji ST0100,Physical Store,9851405549,2024-11-29,Yes,st0100@retailsphere.com
-ST0101,C123,Chameli Murthy,RetailSphere Daman ST0101,Physical Store,9991525252,2016-09-03,Yes,st0101@retailsphere.com
-ST0102,C052,Indira Bath,RetailSphere Mysuru ST0102,Physical Store,9562067698,2018-06-13,Yes,st0102@retailsphere.com
-ST0103,C028,Tarak Gulati,RetailSphere Vasco da Gama ST0103,Physical Store,9969276289,2023-02-16,Yes,st0103@retailsphere.com
-ST0104,C103,Christopher Seshadri,RetailSphere Kanpur ST0104,Physical Store,9331105947,2018-11-20,Yes,st0104@retailsphere.com
-ST0105,C117,Alexander Sangha,RetailSphere New Delhi ST0105,Physical Store,9695728735,2022-03-15,Yes,st0105@retailsphere.com
-ST0106,C092,Falguni Bora,RetailSphere Coimbatore ST0106,Physical Store,9203313928,2024-12-10,Yes,st0106@retailsphere.com
-ST0107,C016,Anirudh Goel,RetailSphere Patna ST0107,Physical Store,9334643292,2019-02-01,Yes,st0107@retailsphere.com
-ST0108,C059,Wahab Shere,RetailSphere Thrissur ST0108,Physical Store,9403240184,2016-10-03,Yes,st0108@retailsphere.com
-ST0109,C068,Samarth Vohra,RetailSphere Nagpur ST0109,Physical Store,9931112415,2021-05-16,Yes,st0109@retailsphere.com
-ST0110,C001,Neelima Sen,RetailSphere Visakhapatnam ST0110,Physical Store,9419801832,2019-04-16,Yes,st0110@retailsphere.com
-ST0111,C103,Aadhya Rajan,RetailSphere Kanpur ST0111,Physical Store,9255261284,2021-04-29,Yes,st0111@retailsphere.com
-ST0112,C076,Urvashi Dubey,RetailSphere Cuttack ST0112,Physical Store,9279619650,2016-09-23,Yes,st0112@retailsphere.com
-ST0113,C057,Warjas Hora,RetailSphere Kochi ST0113,Physical Store,9456667396,2024-08-19,Yes,st0113@retailsphere.com
-ST0114,C102,Harshil Nadkarni,RetailSphere Lucknow ST0114,Physical Store,9632519123,2020-12-19,Yes,st0114@retailsphere.com
-ST0115,C047,Faris Ramanathan,RetailSphere Jamshedpur ST0115,Physical Store,9838993745,2021-09-14,Yes,st0115@retailsphere.com
-ST0116,C095,Amaira Sarraf,RetailSphere Tiruchirappalli ST0116,Physical Store,9337659686,2017-10-22,Yes,st0116@retailsphere.com
-ST0117,C106,Harish Ravel,RetailSphere Prayagraj ST0117,Physical Store,9242520775,2025-04-30,Yes,st0117@retailsphere.com
-ST0118,C085,Irya Aurora,RetailSphere Jaipur ST0118,Physical Store,9858154614,2016-12-20,Yes,st0118@retailsphere.com
-ST0119,C016,Ekansh Sampath,RetailSphere Patna ST0119,Physical Store,9708395413,2020-01-10,Yes,st0119@retailsphere.com
-ST0120,C055,Ijaya Vala,RetailSphere Belagavi ST0120,Physical Store,9416518457,2022-05-27,Yes,st0120@retailsphere.com
-ST0121,C002,Hemal Banerjee,RetailSphere Vijayawada ST0121,Warehouse,9690743499,2017-07-30,Yes,st0121@retailsphere.com
-ST0122,C024,Lucky Handa,RetailSphere Korba ST0122,Physical Store,9787897834,2021-06-21,Yes,st0122@retailsphere.com
-ST0123,C126,Guneet Kurian,RetailSphere Kavaratti ST0123,Physical Store,9563945843,2020-10-08,Yes,st0123@retailsphere.com
-ST0124,C099,Kabir Mohanty,RetailSphere Khammam ST0124,Physical Store,9318684046,2019-12-13,Yes,st0124@retailsphere.com
-ST0125,C040,Bachittar Dubey,RetailSphere Chandigarh (Haryana Capital) ST0125,Physical Store,9595817631,2017-01-26,Yes,st0125@retailsphere.com
-ST0126,C026,Nilima Chana,RetailSphere Panaji ST0126,Physical Store,9292298302,2021-11-18,Yes,st0126@retailsphere.com
-ST0127,C120,Meera Randhawa,RetailSphere Leh ST0127,Physical Store,9373217603,2017-12-24,Yes,st0127@retailsphere.com
-ST0128,C013,Upadhriti Murty,RetailSphere Silchar ST0128,Physical Store,9193782009,2026-02-23,Yes,st0128@retailsphere.com
-ST0129,C049,Yauvani Thakkar,RetailSphere Bokaro ST0129,Physical Store,9225339908,2024-02-18,Yes,st0129@retailsphere.com
-ST0130,C129,Rudra Gera,RetailSphere Port Blair ST0130,Physical Store,9887066888,2020-07-01,Yes,st0130@retailsphere.com
-ST0131,C047,Sathvik Dewan,RetailSphere Jamshedpur ST0131,Physical Store,9484229970,2019-12-13,Yes,st0131@retailsphere.com
-ST0132,C051,Jacob Thakkar,RetailSphere Bengaluru ST0132,Physical Store,9680667802,2022-12-15,Yes,st0132@retailsphere.com
-ST0133,C107,Faqid Rama,RetailSphere Dehradun ST0133,Physical Store,9965281090,2019-06-21,Yes,st0133@retailsphere.com
-ST0134,C035,Suhani Sule,RetailSphere Gandhinagar ST0134,Distribution Center,9556133995,2021-05-02,Yes,st0134@retailsphere.com
-ST0135,C113,George Gill,RetailSphere Howrah ST0135,Physical Store,9633319260,2022-04-11,Yes,st0135@retailsphere.com
-ST0136,C057,Neelima Sidhu,RetailSphere Kochi ST0136,Physical Store,9366265326,2016-10-19,Yes,st0136@retailsphere.com
-ST0137,C112,Ethan Prashad,RetailSphere Kolkata ST0137,Warehouse,9173740495,2020-03-15,Yes,st0137@retailsphere.com
-ST0138,C129,Ranbir Acharya,RetailSphere Port Blair ST0138,Physical Store,9205058203,2023-10-07,Yes,st0138@retailsphere.com
-ST0139,C087,Ranveer Bali,RetailSphere Udaipur ST0139,Physical Store,9741046877,2022-01-23,Yes,st0139@retailsphere.com
-ST0140,C032,Chanchal Bandi,RetailSphere Surat ST0140,Physical Store,9622971827,2025-08-15,Yes,st0140@retailsphere.com
-ST0141,C064,Falguni Halder,RetailSphere Gwalior ST0141,Physical Store,9618276635,2025-05-04,Yes,st0141@retailsphere.com
-ST0142,C033,Harish Singhal,RetailSphere Vadodara ST0142,Physical Store,9139056028,2019-09-20,Yes,st0142@retailsphere.com
-ST0143,C078,Nakul Arora,RetailSphere Sambalpur ST0143,Physical Store,9563678492,2025-08-09,Yes,st0143@retailsphere.com
-ST0144,C101,Vasana Bahri,RetailSphere Agartala ST0144,Physical Store,9804595441,2019-10-23,Yes,st0144@retailsphere.com
-ST0145,C058,Falak Basu,RetailSphere Kozhikode ST0145,Physical Store,9617690040,2025-05-09,Yes,st0145@retailsphere.com
-ST0146,C037,Faqid Rai,RetailSphere Faridabad ST0146,Physical Store,9199613923,2023-03-09,Yes,st0146@retailsphere.com
-ST0147,C129,Daniel Hayre,RetailSphere Port Blair ST0147,Physical Store,9564584298,2016-08-12,Yes,st0147@retailsphere.com
-ST0148,C065,Quincy Karpe,RetailSphere Ujjain ST0148,Physical Store,9233721010,2020-03-18,Yes,st0148@retailsphere.com
-ST0149,C045,Tarak Balasubramanian,RetailSphere Kullu ST0149,Physical Store,9752168378,2025-12-06,Yes,st0149@retailsphere.com
-ST0150,C059,Megha Dass,RetailSphere Thrissur ST0150,Physical Store,9592640073,2023-08-31,Yes,st0150@retailsphere.com
-ST0151,C020,Naveen Sami,RetailSphere Darbhanga ST0151,Warehouse,9211296075,2017-01-29,Yes,st0151@retailsphere.com
-ST0152,C078,Kai Rai,RetailSphere Sambalpur ST0152,Physical Store,9440532915,2024-12-17,Yes,st0152@retailsphere.com
-ST0153,C036,Ekalinga Desai,RetailSphere Gurugram ST0153,Warehouse,9510538420,2022-12-14,Yes,st0153@retailsphere.com
-ST0154,C056,Sudiksha Chandran,RetailSphere Thiruvananthapuram ST0154,Physical Store,9995588295,2020-03-23,Yes,st0154@retailsphere.com
-ST0155,C070,Kamya Soman,RetailSphere Thane ST0155,Physical Store,9868847694,2023-09-15,Yes,st0155@retailsphere.com
-ST0156,C090,Advik Sama,RetailSphere Gangtok ST0156,Physical Store,9784464763,2024-04-23,Yes,st0156@retailsphere.com
-ST0157,C042,Ekantika Shenoy,RetailSphere Dharamshala ST0157,Physical Store,9877921263,2018-11-19,Yes,st0157@retailsphere.com
-ST0158,C020,Samaksh Chanda,RetailSphere Darbhanga ST0158,Physical Store,9741553317,2020-10-07,Yes,st0158@retailsphere.com
-ST0159,C020,Benjamin Mukhopadhyay,RetailSphere Darbhanga ST0159,Physical Store,9271311721,2025-08-05,Yes,st0159@retailsphere.com
-ST0160,C076,Lila Choudhry,RetailSphere Cuttack ST0160,Physical Store,9893901849,2018-12-01,Yes,st0160@retailsphere.com
-ST0161,C032,Tanvi Dhar,RetailSphere Surat ST0161,Physical Store,9529538136,2022-06-10,Yes,st0161@retailsphere.com
-ST0162,C005,Zaitra Arya,RetailSphere Kakinada ST0162,Physical Store,9257103181,2024-10-18,Yes,st0162@retailsphere.com
-ST0163,C096,Alexander Mital,RetailSphere Hyderabad ST0163,Physical Store,9509070868,2021-12-23,Yes,st0163@retailsphere.com
-ST0164,C114,Meghana Vig,RetailSphere Siliguri ST0164,Physical Store,9104614694,2022-03-17,Yes,st0164@retailsphere.com
-ST0165,C056,Thomas Narayanan,RetailSphere Thiruvananthapuram ST0165,Physical Store,9917299407,2025-11-29,Yes,st0165@retailsphere.com
-ST0166,C011,Daksha Dar,RetailSphere Guwahati ST0166,Physical Store,9942983841,2020-08-31,Yes,st0166@retailsphere.com
-ST0167,C056,Balhaar Choudhry,RetailSphere Thiruvananthapuram ST0167,Physical Store,9242683458,2017-07-08,Yes,st0167@retailsphere.com
-ST0168,C125,Ranveer Chadha,RetailSphere Silvassa ST0168,Physical Store,9317335631,2024-01-05,Yes,st0168@retailsphere.com
-ST0169,C117,Waida Saha,RetailSphere New Delhi ST0169,Physical Store,9754719481,2023-11-03,No,st0169@retailsphere.com
-ST0170,C116,Yashica Mammen,RetailSphere Asansol ST0170,Physical Store,9710859476,2026-07-18,Yes,st0170@retailsphere.com
-ST0171,C047,Hemang Kaul,RetailSphere Jamshedpur ST0171,Physical Store,9737547171,2024-06-18,Yes,st0171@retailsphere.com
-ST0172,C056,Zaitra Ganguly,RetailSphere Thiruvananthapuram ST0172,Physical Store,9171278530,2024-11-13,Yes,st0172@retailsphere.com
-ST0173,C078,Tanvi Venkataraman,RetailSphere Sambalpur ST0173,Physical Store,9949924925,2020-10-03,Yes,st0173@retailsphere.com
-ST0174,C124,Jeevika Virk,RetailSphere Diu ST0174,Physical Store,9934520297,2019-01-14,Yes,st0174@retailsphere.com
-ST0175,C062,Bahadurjit Thaker,RetailSphere Indore ST0175,Physical Store,9897655288,2019-09-20,Yes,st0175@retailsphere.com
-ST0176,C036,Oni Gulati,RetailSphere Gurugram ST0176,Physical Store,9498618054,2022-02-26,Yes,st0176@retailsphere.com
-ST0177,C072,Xalak Manda,RetailSphere Shillong ST0177,Physical Store,9548181843,2025-03-10,Yes,st0177@retailsphere.com
-ST0178,C071,Eesha Hans,RetailSphere Imphal ST0178,Physical Store,9724363936,2025-06-01,Yes,st0178@retailsphere.com
-ST0179,C016,Arya Tailor,RetailSphere Patna ST0179,Physical Store,9372880965,2018-01-27,Yes,st0179@retailsphere.com
-ST0180,C033,Vrishti Sangha,RetailSphere Vadodara ST0180,Physical Store,9602466840,2025-08-26,Yes,st0180@retailsphere.com
-ST0181,C114,Veer Rajagopal,RetailSphere Siliguri ST0181,Physical Store,9405036004,2022-09-12,Yes,st0181@retailsphere.com
-ST0182,C055,George Jaggi,RetailSphere Belagavi ST0182,Physical Store,9420798385,2017-12-20,Yes,st0182@retailsphere.com
-ST0183,C056,Ekaja Chanda,RetailSphere Thiruvananthapuram ST0183,Physical Store,9243006908,2021-10-31,Yes,st0183@retailsphere.com
-ST0184,C078,Nirja Hora,RetailSphere Sambalpur ST0184,Physical Store,9118918161,2018-06-08,Yes,st0184@retailsphere.com
-ST0185,C078,Chaitanya Buch,RetailSphere Sambalpur ST0185,Physical Store,9959376171,2020-05-16,Yes,st0185@retailsphere.com
-ST0186,C036,Turvi Chandran,RetailSphere Gurugram ST0186,Physical Store,9943563911,2017-04-28,Yes,st0186@retailsphere.com
-ST0187,C002,Harsh Mittal,RetailSphere Vijayawada ST0187,Physical Store,9507607366,2025-03-03,Yes,st0187@retailsphere.com
-ST0188,C064,Kevin Halder,RetailSphere Gwalior ST0188,Physical Store,9500769776,2024-04-05,Yes,st0188@retailsphere.com
-ST0189,C113,Bakhshi Walla,RetailSphere Howrah ST0189,Physical Store,9877105375,2024-11-15,Yes,st0189@retailsphere.com
-ST0190,C088,Gayathri Sibal,RetailSphere Kota ST0190,Physical Store,9389500830,2025-08-18,Yes,st0190@retailsphere.com
-ST0191,C039,Tanveer Kuruvilla,RetailSphere Ambala ST0191,Distribution Center,9564152464,2019-01-25,Yes,st0191@retailsphere.com
-ST0192,C116,Ekapad Dhaliwal,RetailSphere Asansol ST0192,Physical Store,9756208091,2023-11-21,Yes,st0192@retailsphere.com
-ST0193,C002,Onkar Baria,RetailSphere Vijayawada ST0193,Physical Store,9977424734,2026-01-07,Yes,st0193@retailsphere.com
-ST0194,C079,Bhavani Malhotra,RetailSphere Puri ST0194,Physical Store,9353497117,2018-07-16,Yes,st0194@retailsphere.com
-ST0195,C088,Jalsa Sami,RetailSphere Kota ST0195,Warehouse,9591584028,2024-12-24,Yes,st0195@retailsphere.com
-ST0196,C002,Fariq Kala,RetailSphere Vijayawada ST0196,Warehouse,9725390390,2025-09-18,Yes,st0196@retailsphere.com
-ST0197,C127,Ranveer Gade,RetailSphere Puducherry ST0197,Physical Store,9270639703,2022-07-04,Yes,st0197@retailsphere.com
-ST0198,C054,Thomas Mistry,RetailSphere Hubballi ST0198,Physical Store,9120899619,2024-02-10,Yes,st0198@retailsphere.com
-ST0199,C070,Ekbal Dara,RetailSphere Thane ST0199,Physical Store,9113778926,2020-04-04,Yes,st0199@retailsphere.com
+ST0001,C080,Oscar Sachdeva,RetailSphere Ludhiana ST0001,Physical Store,9135347432,2020-11-15,Yes,st0001@retailsphere.com
+ST0002,C046,Chaman Sehgal,RetailSphere Ranchi ST0002,Physical Store,9248809274,2018-03-20,Yes,st0002@retailsphere.com
+ST0003,C021,Joshua Hari,RetailSphere Raipur ST0003,Physical Store,9634732599,2024-10-02,Yes,st0003@retailsphere.com
+ST0004,C073,Garima Chanda,RetailSphere Aizawl ST0004,Physical Store,9857639653,2017-01-15,Yes,st0004@retailsphere.com
+ST0005,C084,Jagvi Doctor,RetailSphere Chandigarh (Punjab Capital) ST0005,Physical Store,9415950873,2026-05-04,Yes,st0005@retailsphere.com
+ST0006,C096,Warinder Bhardwaj,RetailSphere Hyderabad ST0006,Physical Store,9445134104,2025-06-26,Yes,st0006@retailsphere.com
+ST0007,C053,Liam Nori,RetailSphere Mangaluru ST0007,Warehouse,9772903726,2023-03-21,Yes,st0007@retailsphere.com
+ST0008,C021,Amol Sama,RetailSphere Raipur ST0008,Warehouse,9797683966,2024-07-23,Yes,st0008@retailsphere.com
+ST0009,C102,Manan Bhardwaj,RetailSphere Lucknow ST0009,Physical Store,9501158446,2022-10-02,Yes,st0009@retailsphere.com
+ST0010,C097,Manthan Tandon,RetailSphere Warangal ST0010,Physical Store,9947553097,2022-10-31,Yes,st0010@retailsphere.com
+ST0011,C024,Garima Trivedi,RetailSphere Korba ST0011,Physical Store,9208980189,2025-10-27,Yes,st0011@retailsphere.com
+ST0012,C079,Panini Gokhale,RetailSphere Puri ST0012,Physical Store,9249945145,2026-02-14,Yes,st0012@retailsphere.com
+ST0013,C089,Jalsa Nagi,RetailSphere Ajmer ST0013,Warehouse,9513955858,2018-01-06,Yes,st0013@retailsphere.com
+ST0014,C036,Tanvi Ratti,RetailSphere Gurugram ST0014,Warehouse,9657223244,2019-07-25,Yes,st0014@retailsphere.com
+ST0015,C064,Raghav Borra,RetailSphere Gwalior ST0015,Physical Store,9387061775,2023-10-25,Yes,st0015@retailsphere.com
+ST0016,C117,Yashawini Mall,RetailSphere New Delhi ST0016,Physical Store,9514668151,2017-10-18,Yes,st0016@retailsphere.com
+ST0017,C070,Naksh Dora,RetailSphere Thane ST0017,Physical Store,9296108234,2025-09-06,Yes,st0017@retailsphere.com
+ST0018,C109,Anita Kata,RetailSphere Haldwani ST0018,Distribution Center,9422760506,2025-03-31,Yes,st0018@retailsphere.com
+ST0019,C001,Irya Zacharia,RetailSphere Visakhapatnam ST0019,Physical Store,9820875348,2020-08-11,Yes,st0019@retailsphere.com
+ST0020,C122,Nachiket Dhingra,RetailSphere Chandigarh ST0020,Physical Store,9848980660,2019-02-12,Yes,st0020@retailsphere.com
+ST0021,C111,Champak Karan,RetailSphere Nainital ST0021,Physical Store,9416370432,2016-09-22,Yes,st0021@retailsphere.com
+ST0022,C018,Pavani Borah,RetailSphere Muzaffarpur ST0022,Physical Store,9512106634,2022-12-15,Yes,st0022@retailsphere.com
+ST0023,C006,Widisha Chauhan,RetailSphere Itanagar ST0023,Physical Store,9675916057,2018-07-30,Yes,st0023@retailsphere.com
+ST0024,C062,Naveen Lad,RetailSphere Indore ST0024,Physical Store,9770230195,2021-01-13,Yes,st0024@retailsphere.com
+ST0025,C034,Simon Nayar,RetailSphere Rajkot ST0025,Warehouse,9199470413,2020-05-12,Yes,st0025@retailsphere.com
+ST0026,C011,Chasmum Sandhu,RetailSphere Guwahati ST0026,Physical Store,9996214930,2018-12-12,Yes,st0026@retailsphere.com
+ST0027,C067,Vasana Patla,RetailSphere Pune ST0027,Physical Store,9896804473,2023-02-16,Yes,st0027@retailsphere.com
+ST0028,C016,Owen Mutti,RetailSphere Patna ST0028,Physical Store,9877009322,2022-06-23,Yes,st0028@retailsphere.com
+ST0029,C002,Sanaya Padmanabhan,RetailSphere Vijayawada ST0029,Physical Store,9818651014,2023-11-29,Yes,st0029@retailsphere.com
+ST0030,C073,Xalak Bansal,RetailSphere Aizawl ST0030,Physical Store,9674014489,2018-02-06,Yes,st0030@retailsphere.com
+ST0031,C026,Jasmit Wali,RetailSphere Panaji ST0031,Distribution Center,9400568620,2026-04-03,Yes,st0031@retailsphere.com
+ST0032,C113,Bhavya Modi,RetailSphere Howrah ST0032,Physical Store,9562719382,2021-07-20,Yes,st0032@retailsphere.com
+ST0033,C094,Chakrika Bali,RetailSphere Salem ST0033,Physical Store,9285247160,2024-02-18,Yes,st0033@retailsphere.com
+ST0034,C071,Chakradhar Uppal,RetailSphere Imphal ST0034,Physical Store,9718147473,2020-07-31,Yes,st0034@retailsphere.com
+ST0035,C115,Matthew Bora,RetailSphere Durgapur ST0035,Physical Store,9427616853,2019-08-08,Yes,st0035@retailsphere.com
+ST0036,C063,Azad Bajwa,RetailSphere Jabalpur ST0036,Physical Store,9602590454,2017-10-23,Yes,st0036@retailsphere.com
+ST0037,C087,Odika Gola,RetailSphere Udaipur ST0037,Warehouse,9870287789,2022-07-26,Yes,st0037@retailsphere.com
+ST0038,C030,Jagvi Dhawan,RetailSphere Ponda ST0038,Physical Store,9465252138,2022-09-07,Yes,st0038@retailsphere.com
+ST0039,C007,Peter Sur,RetailSphere Naharlagun ST0039,Physical Store,9922356490,2021-01-19,Yes,st0039@retailsphere.com
+ST0040,C003,Max Puri,RetailSphere Guntur ST0040,Physical Store,9470945600,2024-03-06,Yes,st0040@retailsphere.com
+ST0041,C074,Brijesh Chopra,RetailSphere Kohima ST0041,Physical Store,9518355508,2017-05-23,Yes,st0041@retailsphere.com
+ST0042,C079,Jairaj Ratta,RetailSphere Puri ST0042,Physical Store,9628469610,2016-09-15,Yes,st0042@retailsphere.com
+ST0043,C068,Samarth Kibe,RetailSphere Nagpur ST0043,Physical Store,9822682367,2021-10-29,Yes,st0043@retailsphere.com
+ST0044,C068,Jhalak Ramakrishnan,RetailSphere Nagpur ST0044,Distribution Center,9977218789,2019-11-06,Yes,st0044@retailsphere.com
+ST0045,C016,Darika Tailor,RetailSphere Patna ST0045,Physical Store,9623810346,2021-04-20,Yes,st0045@retailsphere.com
+ST0046,C061,Ekantika D’Alia,RetailSphere Bhopal ST0046,Warehouse,9312131668,2020-12-27,Yes,st0046@retailsphere.com
+ST0047,C098,Qasim Shah,RetailSphere Karimnagar ST0047,Physical Store,9435253744,2019-08-22,Yes,st0047@retailsphere.com
+ST0048,C084,Lavanya Roy,RetailSphere Chandigarh (Punjab Capital) ST0048,Distribution Center,9337354557,2025-01-24,Yes,st0048@retailsphere.com
+ST0049,C116,William Sahni,RetailSphere Asansol ST0049,Physical Store,9171422864,2017-09-17,Yes,st0049@retailsphere.com
+ST0050,C032,Harinakshi Verma,RetailSphere Surat ST0050,Physical Store,9997322824,2026-05-18,Yes,st0050@retailsphere.com
+ST0051,C090,Madhavi Yohannan,RetailSphere Gangtok ST0051,Physical Store,9611374415,2022-03-15,Yes,st0051@retailsphere.com
+ST0052,C031,Barkha Pall,RetailSphere Ahmedabad ST0052,Physical Store,9479369838,2024-05-20,Yes,st0052@retailsphere.com
+ST0053,C012,Dominic Yadav,RetailSphere Dispur ST0053,Physical Store,9673209199,2017-04-15,Yes,st0053@retailsphere.com
+ST0054,C091,Ria Khare,RetailSphere Chennai ST0054,Physical Store,9952288206,2017-10-05,Yes,st0054@retailsphere.com
+ST0055,C006,Jagvi Sama,RetailSphere Itanagar ST0055,Physical Store,9487513737,2024-06-01,Yes,st0055@retailsphere.com
+ST0056,C032,Azaan Gill,RetailSphere Surat ST0056,Physical Store,9494280627,2024-08-21,Yes,st0056@retailsphere.com
+ST0057,C102,Guneet Char,RetailSphere Lucknow ST0057,Physical Store,9657293707,2019-06-09,Yes,st0057@retailsphere.com
+ST0058,C015,Samarth Vohra,RetailSphere Jorhat ST0058,Physical Store,9811827095,2019-10-12,Yes,st0058@retailsphere.com
+ST0059,C051,Tarak Babu,RetailSphere Bengaluru ST0059,Warehouse,9505193035,2020-02-19,Yes,st0059@retailsphere.com
+ST0060,C011,Anay Kaul,RetailSphere Guwahati ST0060,Physical Store,9366435494,2023-12-30,Yes,st0060@retailsphere.com
+ST0061,C059,Shivansh Chauhan,RetailSphere Thrissur ST0061,Warehouse,9258303387,2026-03-07,Yes,st0061@retailsphere.com
+ST0062,C042,George Panchal,RetailSphere Dharamshala ST0062,Physical Store,9484474708,2017-01-07,Yes,st0062@retailsphere.com
+ST0063,C064,Sara Kurian,RetailSphere Gwalior ST0063,Physical Store,9136762687,2025-10-02,Yes,st0063@retailsphere.com
+ST0064,C032,Lavanya Dhaliwal,RetailSphere Surat ST0064,Physical Store,9200115543,2018-12-22,Yes,st0064@retailsphere.com
+ST0065,C002,Ekaraj Wable,RetailSphere Vijayawada ST0065,Physical Store,9428401119,2024-10-02,Yes,st0065@retailsphere.com
+ST0066,C122,Lavanya Dave,RetailSphere Chandigarh ST0066,Physical Store,9166908640,2020-01-20,Yes,st0066@retailsphere.com
+ST0067,C075,Radhika Doctor,RetailSphere Bhubaneswar ST0067,Physical Store,9859279504,2023-01-03,Yes,st0067@retailsphere.com
+ST0068,C046,Harshil Kaul,RetailSphere Ranchi ST0068,Physical Store,9155769188,2026-03-28,Yes,st0068@retailsphere.com
+ST0069,C004,Logan Sant,RetailSphere Tirupati ST0069,Physical Store,9138143733,2018-11-15,Yes,st0069@retailsphere.com
+ST0070,C116,Harita Koshy,RetailSphere Asansol ST0070,Distribution Center,9802982609,2024-02-28,Yes,st0070@retailsphere.com
+ST0071,C116,Darsh Kamdar,RetailSphere Asansol ST0071,Physical Store,9223258790,2017-01-04,No,st0071@retailsphere.com
+ST0072,C095,Vyanjana Thaker,RetailSphere Tiruchirappalli ST0072,Physical Store,9276591749,2025-12-13,Yes,st0072@retailsphere.com
+ST0073,C123,Onveer Grewal,RetailSphere Daman ST0073,Physical Store,9892066163,2024-04-02,Yes,st0073@retailsphere.com
+ST0074,C101,Daksh Agarwal,RetailSphere Agartala ST0074,Physical Store,9608603751,2016-08-07,Yes,st0074@retailsphere.com
+ST0075,C052,Madhav Hayer,RetailSphere Mysuru ST0075,Distribution Center,9966141133,2024-10-01,Yes,st0075@retailsphere.com
+ST0076,C105,Yamini Kurian,RetailSphere Agra ST0076,Physical Store,9898069478,2020-01-08,Yes,st0076@retailsphere.com
+ST0077,C062,Urvashi Dhawan,RetailSphere Indore ST0077,Physical Store,9715274930,2017-05-16,Yes,st0077@retailsphere.com
+ST0078,C106,Anjali Toor,RetailSphere Prayagraj ST0078,Physical Store,9429512763,2017-01-04,Yes,st0078@retailsphere.com
+ST0079,C121,Harish Sood,RetailSphere Kargil ST0079,Physical Store,9577359693,2020-12-18,Yes,st0079@retailsphere.com
+ST0080,C104,Vedhika Narayan,RetailSphere Varanasi ST0080,Physical Store,9998283867,2022-04-02,Yes,st0080@retailsphere.com
+ST0081,C070,Amol Mane,RetailSphere Thane ST0081,Physical Store,9890615759,2020-03-18,Yes,st0081@retailsphere.com
+ST0082,C122,Yashawini Maharaj,RetailSphere Chandigarh ST0082,Physical Store,9502036350,2018-06-05,Yes,st0082@retailsphere.com
+ST0083,C063,Sneha Batta,RetailSphere Jabalpur ST0083,Physical Store,9988062767,2017-12-09,Yes,st0083@retailsphere.com
+ST0084,C003,Balveer Gupta,RetailSphere Guntur ST0084,Physical Store,9626342022,2020-10-24,Yes,st0084@retailsphere.com
+ST0085,C116,Arunima Raman,RetailSphere Asansol ST0085,Physical Store,9296365293,2017-09-16,Yes,st0085@retailsphere.com
+ST0086,C099,Aryan Mukhopadhyay,RetailSphere Khammam ST0086,Physical Store,9782568790,2022-03-18,Yes,st0086@retailsphere.com
+ST0087,C041,Andrew Gaba,RetailSphere Shimla ST0087,Physical Store,9675854780,2026-05-03,Yes,st0087@retailsphere.com
+ST0088,C016,Gagan Sehgal,RetailSphere Patna ST0088,Physical Store,9231880206,2025-10-31,No,st0088@retailsphere.com
+ST0089,C110,Vasudha Dhaliwal,RetailSphere Roorkee ST0089,Physical Store,9842972716,2025-12-29,Yes,st0089@retailsphere.com
+ST0090,C056,Triya Memon,RetailSphere Thiruvananthapuram ST0090,Physical Store,9304810625,2021-10-05,No,st0090@retailsphere.com
+ST0091,C056,Chaitanya Nath,RetailSphere Thiruvananthapuram ST0091,Physical Store,9639733689,2026-07-04,No,st0091@retailsphere.com
+ST0092,C018,Bachittar Chadha,RetailSphere Muzaffarpur ST0092,Physical Store,9337657155,2023-07-10,Yes,st0092@retailsphere.com
+ST0093,C068,Anjali Nath,RetailSphere Nagpur ST0093,Distribution Center,9226225108,2021-07-23,Yes,st0093@retailsphere.com
+ST0094,C100,Yahvi Misra,RetailSphere Nizamabad ST0094,Physical Store,9821640086,2019-09-17,Yes,st0094@retailsphere.com
+ST0095,C090,Sneha Narasimhan,RetailSphere Gangtok ST0095,Physical Store,9800862481,2025-06-23,Yes,st0095@retailsphere.com
+ST0096,C113,Ekiya Soni,RetailSphere Howrah ST0096,Physical Store,9400719086,2025-08-18,Yes,st0096@retailsphere.com
+ST0097,C073,Varenya Khurana,RetailSphere Aizawl ST0097,Physical Store,9951913505,2023-04-08,Yes,st0097@retailsphere.com
+ST0098,C076,Max Kar,RetailSphere Cuttack ST0098,Physical Store,9779811303,2020-03-25,Yes,st0098@retailsphere.com
+ST0099,C036,Wyatt Varty,RetailSphere Gurugram ST0099,Physical Store,9820069631,2026-04-17,Yes,st0099@retailsphere.com
+ST0100,C080,Mahika Nair,RetailSphere Ludhiana ST0100,Physical Store,9927897748,2022-09-27,Yes,st0100@retailsphere.com
+ST0101,C111,Wakeeta Mistry,RetailSphere Nainital ST0101,Physical Store,9894506857,2019-12-17,Yes,st0101@retailsphere.com
+ST0102,C037,Inaya Dhawan,RetailSphere Faridabad ST0102,Warehouse,9470137001,2020-06-23,Yes,st0102@retailsphere.com
+ST0103,C102,Leela Ganesh,RetailSphere Lucknow ST0103,Physical Store,9443716027,2020-03-01,Yes,st0103@retailsphere.com
+ST0104,C056,Yashasvi Bhavsar,RetailSphere Thiruvananthapuram ST0104,Physical Store,9454167969,2023-02-10,Yes,st0104@retailsphere.com
+ST0105,C031,Aadi Majumdar,RetailSphere Ahmedabad ST0105,Physical Store,9384179134,2022-08-30,Yes,st0105@retailsphere.com
+ST0106,C075,Baljiwan Mann,RetailSphere Bhubaneswar ST0106,Physical Store,9706771654,2023-03-06,Yes,st0106@retailsphere.com
+ST0107,C056,Mekhala Manne,RetailSphere Thiruvananthapuram ST0107,Physical Store,9804583673,2019-08-15,Yes,st0107@retailsphere.com
+ST0108,C067,Guneet Zacharia,RetailSphere Pune ST0108,Physical Store,9945371634,2022-07-01,Yes,st0108@retailsphere.com
+ST0109,C027,Reyansh Sawhney,RetailSphere Margao ST0109,Warehouse,9499203022,2019-02-21,Yes,st0109@retailsphere.com
+ST0110,C126,Upkaar Patla,RetailSphere Kavaratti ST0110,Physical Store,9775727346,2024-12-08,Yes,st0110@retailsphere.com
+ST0111,C081,Aachal Sood,RetailSphere Amritsar ST0111,Physical Store,9517336389,2020-10-16,Yes,st0111@retailsphere.com
+ST0112,C026,Ranveer Setty,RetailSphere Panaji ST0112,Physical Store,9805076921,2016-10-23,Yes,st0112@retailsphere.com
+ST0113,C062,Hitesh Dayal,RetailSphere Indore ST0113,Warehouse,9565297950,2019-09-15,Yes,st0113@retailsphere.com
+ST0114,C080,Viraj Bandi,RetailSphere Ludhiana ST0114,Physical Store,9688339757,2017-02-14,Yes,st0114@retailsphere.com
+ST0115,C068,Chameli Iyengar,RetailSphere Nagpur ST0115,Physical Store,9857090385,2022-03-24,Yes,st0115@retailsphere.com
+ST0116,C101,Janaki Bal,RetailSphere Agartala ST0116,Physical Store,9397387891,2018-04-24,Yes,st0116@retailsphere.com
+ST0117,C113,Mitali Mani,RetailSphere Howrah ST0117,Warehouse,9720935910,2019-12-24,Yes,st0117@retailsphere.com
+ST0118,C046,Yashasvi Sehgal,RetailSphere Ranchi ST0118,Physical Store,9764699587,2018-05-08,Yes,st0118@retailsphere.com
+ST0119,C040,Vanya Naidu,RetailSphere Chandigarh (Haryana Capital) ST0119,Warehouse,9886638069,2021-09-04,Yes,st0119@retailsphere.com
+ST0120,C002,Gopal Sangha,RetailSphere Vijayawada ST0120,Physical Store,9667137107,2025-01-25,Yes,st0120@retailsphere.com
+ST0121,C081,Wriddhish Patel,RetailSphere Amritsar ST0121,Physical Store,9188371085,2020-04-19,Yes,st0121@retailsphere.com
+ST0122,C040,Azad Manda,RetailSphere Chandigarh (Haryana Capital) ST0122,Physical Store,9433879144,2022-07-28,Yes,st0122@retailsphere.com
+ST0123,C064,Yatin Wadhwa,RetailSphere Gwalior ST0123,Physical Store,9833295130,2024-07-30,Yes,st0123@retailsphere.com
+ST0124,C032,Ekantika Brar,RetailSphere Surat ST0124,Physical Store,9267435824,2017-02-23,Yes,st0124@retailsphere.com
+ST0125,C033,Omisha Gopal,RetailSphere Vadodara ST0125,Physical Store,9391327545,2018-10-02,Yes,st0125@retailsphere.com
+ST0126,C049,Ayaan Shere,RetailSphere Bokaro ST0126,Physical Store,9745423060,2022-02-26,Yes,st0126@retailsphere.com
+ST0127,C114,Anmol Sibal,RetailSphere Siliguri ST0127,Warehouse,9147647024,2017-08-06,Yes,st0127@retailsphere.com
+ST0128,C076,Vasana Bhatt,RetailSphere Cuttack ST0128,Physical Store,9239378825,2021-12-08,Yes,st0128@retailsphere.com
+ST0129,C080,Pavani Barad,RetailSphere Ludhiana ST0129,Physical Store,9340126829,2025-12-17,Yes,st0129@retailsphere.com
+ST0130,C047,Andrew Ratti,RetailSphere Jamshedpur ST0130,Distribution Center,9506322048,2025-04-09,Yes,st0130@retailsphere.com
+ST0131,C030,Veda Dixit,RetailSphere Ponda ST0131,Physical Store,9800849600,2016-10-16,Yes,st0131@retailsphere.com
+ST0132,C002,Imaran Khanna,RetailSphere Vijayawada ST0132,Physical Store,9591477347,2023-09-27,Yes,st0132@retailsphere.com
+ST0133,C097,Max Sachdeva,RetailSphere Warangal ST0133,Physical Store,9314454523,2023-10-23,Yes,st0133@retailsphere.com
+ST0134,C041,Naveen Batta,RetailSphere Shimla ST0134,Physical Store,9444235243,2024-05-22,Yes,st0134@retailsphere.com
+ST0135,C075,Bahadurjit Sama,RetailSphere Bhubaneswar ST0135,Physical Store,9234662365,2021-06-08,Yes,st0135@retailsphere.com
+ST0136,C126,Udarsh Natt,RetailSphere Kavaratti ST0136,Physical Store,9242912845,2023-11-08,Yes,st0136@retailsphere.com
+ST0137,C011,Yashodhara Gupta,RetailSphere Guwahati ST0137,Physical Store,9801061174,2022-03-08,Yes,st0137@retailsphere.com
+ST0138,C112,Kabir Shukla,RetailSphere Kolkata ST0138,Physical Store,9356180362,2024-07-08,Yes,st0138@retailsphere.com
+ST0139,C087,Thomas Agrawal,RetailSphere Udaipur ST0139,Physical Store,9822145685,2024-03-05,Yes,st0139@retailsphere.com
+ST0140,C071,Arjun Tripathi,RetailSphere Imphal ST0140,Physical Store,9139917307,2025-04-16,Yes,st0140@retailsphere.com
+ST0141,C053,Oliver Krishna,RetailSphere Mangaluru ST0141,Distribution Center,9618031399,2018-11-22,Yes,st0141@retailsphere.com
+ST0142,C092,Vidhi Gara,RetailSphere Coimbatore ST0142,Physical Store,9593853352,2024-02-29,Yes,st0142@retailsphere.com
+ST0143,C060,Atharv Sama,RetailSphere Kollam ST0143,Physical Store,9267771666,2023-11-06,Yes,st0143@retailsphere.com
+ST0144,C088,Patrick Oommen,RetailSphere Kota ST0144,Physical Store,9839180556,2020-11-17,Yes,st0144@retailsphere.com
+ST0145,C011,Bishakha Shenoy,RetailSphere Guwahati ST0145,Physical Store,9561687226,2025-12-20,Yes,st0145@retailsphere.com
+ST0146,C016,Lajita Wable,RetailSphere Patna ST0146,Physical Store,9619082395,2024-01-23,Yes,st0146@retailsphere.com
+ST0147,C088,Udant Rajagopalan,RetailSphere Kota ST0147,Physical Store,9839417993,2021-12-11,Yes,st0147@retailsphere.com
+ST0148,C129,Nitara Basak,RetailSphere Port Blair ST0148,Physical Store,9792177469,2018-06-29,Yes,st0148@retailsphere.com
+ST0149,C095,Eiravati Bajaj,RetailSphere Tiruchirappalli ST0149,Physical Store,9485891686,2025-03-28,Yes,st0149@retailsphere.com
+ST0150,C125,Gautami Pant,RetailSphere Silvassa ST0150,Physical Store,9191985510,2020-09-04,Yes,st0150@retailsphere.com
+ST0151,C092,Zansi Bandi,RetailSphere Coimbatore ST0151,Physical Store,9708339169,2019-05-05,Yes,st0151@retailsphere.com
+ST0152,C061,Madhavi Sant,RetailSphere Bhopal ST0152,Physical Store,9306625407,2025-03-26,Yes,st0152@retailsphere.com
+ST0153,C053,Dakshesh Jain,RetailSphere Mangaluru ST0153,Physical Store,9584250985,2019-09-28,Yes,st0153@retailsphere.com
+ST0154,C002,Aayush Nadkarni,RetailSphere Vijayawada ST0154,Physical Store,9369508671,2021-11-21,Yes,st0154@retailsphere.com
+ST0155,C102,Niharika Suresh,RetailSphere Lucknow ST0155,Physical Store,9170903376,2023-10-15,Yes,st0155@retailsphere.com
+ST0156,C020,Oviya Raman,RetailSphere Darbhanga ST0156,Physical Store,9712906940,2021-07-25,Yes,st0156@retailsphere.com
+ST0157,C069,Fitan Deep,RetailSphere Nashik ST0157,Physical Store,9299220958,2019-04-23,Yes,st0157@retailsphere.com
+ST0158,C102,Akshay Dugar,RetailSphere Lucknow ST0158,Physical Store,9716649023,2017-03-03,Yes,st0158@retailsphere.com
+ST0159,C094,Mahika Dani,RetailSphere Salem ST0159,Physical Store,9636580238,2026-04-29,Yes,st0159@retailsphere.com
+ST0160,C105,Ekanta Roy,RetailSphere Agra ST0160,Physical Store,9814012441,2023-02-20,Yes,st0160@retailsphere.com
+ST0161,C036,Aditya Kale,RetailSphere Gurugram ST0161,Physical Store,9217088641,2021-09-09,Yes,st0161@retailsphere.com
+ST0162,C080,Vasatika Murthy,RetailSphere Ludhiana ST0162,Warehouse,9330063270,2023-04-18,Yes,st0162@retailsphere.com
+ST0163,C023,Mahika Naik,RetailSphere Bilaspur ST0163,Physical Store,9413143766,2026-02-26,Yes,st0163@retailsphere.com
+ST0164,C110,Nidra Tata,RetailSphere Roorkee ST0164,Physical Store,9271530381,2024-07-22,Yes,st0164@retailsphere.com
+ST0165,C126,Yochana Chanda,RetailSphere Kavaratti ST0165,Physical Store,9295000379,2025-03-24,Yes,st0165@retailsphere.com
+ST0166,C047,Chanchal Gour,RetailSphere Jamshedpur ST0166,Physical Store,9271996446,2023-03-30,Yes,st0166@retailsphere.com
+ST0167,C091,Sai Gara,RetailSphere Chennai ST0167,Physical Store,9473869207,2017-08-31,Yes,st0167@retailsphere.com
+ST0168,C062,Baljiwan Mani,RetailSphere Indore ST0168,Physical Store,9311178056,2023-04-03,Yes,st0168@retailsphere.com
+ST0169,C001,Aarini Yogi,RetailSphere Visakhapatnam ST0169,Physical Store,9749382425,2025-09-22,Yes,st0169@retailsphere.com
+ST0170,C075,Rohan Bail,RetailSphere Bhubaneswar ST0170,Physical Store,9812334314,2024-08-24,Yes,st0170@retailsphere.com
+ST0171,C089,Avni Sekhon,RetailSphere Ajmer ST0171,Physical Store,9781482213,2024-10-14,Yes,st0171@retailsphere.com
+ST0172,C047,Ekta Puri,RetailSphere Jamshedpur ST0172,Physical Store,9793091500,2024-03-14,Yes,st0172@retailsphere.com
+ST0173,C084,Megha Dutta,RetailSphere Chandigarh (Punjab Capital) ST0173,Physical Store,9181788022,2023-04-20,Yes,st0173@retailsphere.com
+ST0174,C034,Ucchal Keer,RetailSphere Rajkot ST0174,Physical Store,9593679132,2021-06-21,Yes,st0174@retailsphere.com
+ST0175,C066,Yashvi Reddy,RetailSphere Mumbai ST0175,Warehouse,9195174792,2020-06-06,Yes,st0175@retailsphere.com
+ST0176,C075,Lila Lad,RetailSphere Bhubaneswar ST0176,Physical Store,9936535423,2021-10-21,Yes,st0176@retailsphere.com
+ST0177,C097,Garima Toor,RetailSphere Warangal ST0177,Physical Store,9509634595,2021-01-19,Yes,st0177@retailsphere.com
+ST0178,C063,Vedika Misra,RetailSphere Jabalpur ST0178,Physical Store,9172737070,2019-08-08,Yes,st0178@retailsphere.com
+ST0179,C042,Urvashi Sule,RetailSphere Dharamshala ST0179,Physical Store,9659043606,2020-11-07,Yes,st0179@retailsphere.com
+ST0180,C014,Isha Cherian,RetailSphere Dibrugarh ST0180,Physical Store,9579690307,2025-12-07,Yes,st0180@retailsphere.com
+ST0181,C051,Gaurika Mann,RetailSphere Bengaluru ST0181,Warehouse,9662895593,2021-05-16,Yes,st0181@retailsphere.com
+ST0182,C018,Prisha Morar,RetailSphere Muzaffarpur ST0182,Physical Store,9737374909,2021-12-19,Yes,st0182@retailsphere.com
+ST0183,C018,Januja Pandit,RetailSphere Muzaffarpur ST0183,Physical Store,9854031067,2017-10-16,Yes,st0183@retailsphere.com
+ST0184,C018,Triveni Srinivas,RetailSphere Muzaffarpur ST0184,Physical Store,9944471256,2022-10-18,Yes,st0184@retailsphere.com
+ST0185,C039,Warda Shenoy,RetailSphere Ambala ST0185,Physical Store,9568508026,2021-08-03,Yes,st0185@retailsphere.com
+ST0186,C092,Benjamin Shere,RetailSphere Coimbatore ST0186,Physical Store,9508335001,2024-10-21,Yes,st0186@retailsphere.com
+ST0187,C021,Ekani Chaudry,RetailSphere Raipur ST0187,Physical Store,9700073181,2016-09-18,Yes,st0187@retailsphere.com
+ST0188,C122,Robert Banik,RetailSphere Chandigarh ST0188,Physical Store,9313527443,2024-05-20,Yes,st0188@retailsphere.com
+ST0189,C104,Jatin Raju,RetailSphere Varanasi ST0189,Physical Store,9576657724,2017-04-24,Yes,st0189@retailsphere.com
+ST0190,C032,Eiravati Mukherjee,RetailSphere Surat ST0190,Physical Store,9323079845,2025-09-27,Yes,st0190@retailsphere.com
+ST0191,C110,Nihal Rajagopal,RetailSphere Roorkee ST0191,Physical Store,9757310725,2019-04-26,Yes,st0191@retailsphere.com
+ST0192,C075,Dakshesh Gulati,RetailSphere Bhubaneswar ST0192,Physical Store,9263753352,2019-09-10,Yes,st0192@retailsphere.com
+ST0193,C048,Ijaya Chawla,RetailSphere Dhanbad ST0193,Physical Store,9847179004,2023-05-17,Yes,st0193@retailsphere.com
+ST0194,C003,Kabir Sandhu,RetailSphere Guntur ST0194,Physical Store,9356271401,2018-07-19,Yes,st0194@retailsphere.com
+ST0195,C083,Nihal Din,RetailSphere Patiala ST0195,Physical Store,9148018575,2018-04-28,Yes,st0195@retailsphere.com
+ST0196,C079,Nisha Naidu,RetailSphere Puri ST0196,Physical Store,9337900924,2021-02-08,Yes,st0196@retailsphere.com
+ST0197,C033,Aashi Vaidya,RetailSphere Vadodara ST0197,Physical Store,9694419798,2016-08-17,Yes,st0197@retailsphere.com
+ST0198,C012,Vasudha Purohit,RetailSphere Dispur ST0198,Physical Store,9348866009,2025-05-13,Yes,st0198@retailsphere.com
+ST0199,C046,Mason Krish,RetailSphere Ranchi ST0199,Physical Store,9198074104,2025-10-11,Yes,st0199@retailsphere.com
+ST0200,C119,Gunbir Dada,RetailSphere Jammu ST0200,Physical Store,9730999824,2025-03-22,Yes,st0200@retailsphere.com

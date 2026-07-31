@@ -29,7 +29,7 @@ market_weights = {
 cities["Weight"] = cities["MarketType"].map(market_weights)
 
 stores=[]
-for i in range(1,200):
+for i in range(1,201):
     store_id=f"ST{i:04}"
     city_id = random.choices(
     population=cities["CityID"],
@@ -82,3 +82,10 @@ stores_df.to_csv(
     index=False
 )
 
+# print(len(stores_df))
+# print(stores_df["StoreID"].duplicated().sum())
+# print(stores_df["Email"].duplicated().sum())
+# print(stores_df.isnull().sum())
+# print(stores_df["StoreType"].value_counts())
+# print(stores_df["IsActive"].value_counts())
+# print(stores_df["CityID"].value_counts().head(15))    
