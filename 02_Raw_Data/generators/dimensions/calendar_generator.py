@@ -65,7 +65,7 @@ project_root = Path(__file__).resolve().parents[2]
 #resolve=Tell me the full address -C:\Users\vamsi\Documents\RetailSphere-Enterprise-Analytics-Platform\rawdata..
 #parents=Go backwards
 
-output_path = project_root / "output" / "dimension"
+output_path = project_root / "output" / "dimensions"
 output_path.mkdir(parents=True, exist_ok=True)
 #if the folder doens't exist then i can't save the file.
 # so Create all missing parent folders too."
