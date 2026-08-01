@@ -1,0 +1,81 @@
+SupplierID,SupplierName,PrimaryCategory,CityID,ContactPerson,Email,PhoneNumber,GSTNumber,RegistrationDate,Rating,IsActive
+SUP0001,Acer India - Nizamabad,Electronics,C100,Girindra Sehgal,sup0001@retailsphere.com,9527028345,20YXfqV08759a1Z5,2025-11-28,1,Yes
+SUP0002,Allen Solly - Margao,Fashion,C027,Vivaan Mann,sup0002@retailsphere.com,9376213215,15tCzgq35924C1Z5,2014-04-10,3,Yes
+SUP0003,Apple India - Mangaluru,Electronics,C053,Anamika Chacko,sup0003@retailsphere.com,9796782082,21nVIWy37703u1Z5,2022-04-06,5,Yes
+SUP0004,Apple India - Patna,Electronics,C016,Matthew Shenoy,sup0004@retailsphere.com,9599752033,26aobmX61660k1Z5,2012-09-15,5,Yes
+SUP0005,Bata India - Ponda,Fashion,C030,Yashasvi Dasgupta,sup0005@retailsphere.com,9101444717,32IIxRd81017B1Z5,2014-11-12,4,Yes
+SUP0006,Apple India - New Delhi,Electronics,C117,Sai Tandon,sup0006@retailsphere.com,9488234535,12fygsb52252u1Z5,2017-10-01,4,Yes
+SUP0007,Nestlé India - Bhubaneswar,Grocery,C075,Gavin Chandra,sup0007@retailsphere.com,9626652571,19oLbMr29586K1Z5,2017-12-18,5,Yes
+SUP0008,Lenovo India - Thrissur,Electronics,C059,Alka Vohra,sup0008@retailsphere.com,9644125529,27Dhwzd99224n1Z5,2015-11-14,2,Yes
+SUP0009,Apple India - Chandigarh (Punjab Capital),Electronics,C084,Madhavi Vyas,sup0009@retailsphere.com,9791331457,31OtyDj84496m1Z5,2015-02-27,4,Yes
+SUP0010,Parle - Mysuru,Grocery,C052,Anirudh Rana,sup0010@retailsphere.com,9304758593,38gQZyZ62217M1Z5,2018-08-12,5,Yes
+SUP0011,Tata Consumer - Jaipur,Grocery,C085,Jackson Patil,sup0011@retailsphere.com,9829175478,17qGLjt95987C1Z5,2013-07-23,2,Yes
+SUP0012,LG Electronics - Haridwar,Electronics,C108,Sanya Pillai,sup0012@retailsphere.com,9218380949,18tdMri60662a1Z5,2016-11-27,4,Yes
+SUP0013,Nestlé India - Vasco da Gama,Grocery,C028,Lakshit Tella,sup0013@retailsphere.com,9524867211,19lFetX29589F1Z5,2019-12-06,3,Yes
+SUP0014,ITC Foods - Ranchi,Grocery,C046,Garima Malhotra,sup0014@retailsphere.com,9566559114,37pbHfz83279I1Z5,2014-06-03,4,Yes
+SUP0015,Coca-Cola India - Kohima,Grocery,C074,Bhavani Patla,sup0015@retailsphere.com,9919190050,11pZNFf64771U1Z5,2017-03-15,4,Yes
+SUP0016,Allen Solly - Durgapur,Fashion,C115,Pahal Madan,sup0016@retailsphere.com,9274482605,10SquIt66849l1Z5,2022-03-10,3,Yes
+SUP0017,Dell Technologies - Gaya,Electronics,C017,Ekanta Peri,sup0017@retailsphere.com,9564281210,23EJcwa26117Z1Z5,2013-08-12,4,Yes
+SUP0018,Adidas India - Dispur,Fashion,C012,Yashodhara Nagarajan,sup0018@retailsphere.com,9987957373,36aGdzI50433P1Z5,2022-02-16,3,Yes
+SUP0019,Nestlé India - Khammam,Grocery,C099,Ojas Patla,sup0019@retailsphere.com,9110053404,38MWwRl51221v1Z5,2016-08-11,4,Yes
+SUP0020,Apple India - Faridabad,Electronics,C037,Ikshita Natarajan,sup0020@retailsphere.com,9983954965,21pkqBJ50578K1Z5,2012-05-09,5,Yes
+SUP0021,Allen Solly - Srinagar,Fashion,C118,Oliver Prakash,sup0021@retailsphere.com,9490595820,21qDqDJ45554W1Z5,2025-02-10,5,Yes
+SUP0022,Zara India - Jaipur,Fashion,C085,Veda Gandhi,sup0022@retailsphere.com,9844241661,21IznBe01693I1Z5,2022-01-08,4,Yes
+SUP0023,Fortune Foods - Thiruvananthapuram,Grocery,C056,Aarini Yogi,sup0023@retailsphere.com,9167770877,15wlXtG41174a1Z5,2023-06-11,4,Yes
+SUP0024,Nestlé India - Silchar,Grocery,C013,Victor Bava,sup0024@retailsphere.com,9556011985,20KJSHr06471i1Z5,2025-03-09,4,Yes
+SUP0025,Lenovo India - Gurugram,Electronics,C036,Ethan Divan,sup0025@retailsphere.com,9576280992,10eFZIM92434k1Z5,2023-10-24,5,Yes
+SUP0026,HP India - Cuttack,Electronics,C076,Leena Nori,sup0026@retailsphere.com,9876434265,17GRWjz37503i1Z5,2020-04-19,3,No
+SUP0027,Acer India - Raipur,Electronics,C021,Faraj Bail,sup0027@retailsphere.com,9658458382,14HRmsa19054Z1Z5,2018-12-11,3,Yes
+SUP0028,Fortune Foods - Gurugram,Grocery,C036,Jack Bala,sup0028@retailsphere.com,9483383417,25pYeFU64779c1Z5,2017-04-28,3,Yes
+SUP0029,LG Electronics - Ranchi,Electronics,C046,Girish Kuruvilla,sup0029@retailsphere.com,9961557612,36uHiQC87634O1Z5,2019-12-30,2,Yes
+SUP0030,Dell Technologies - Jaipur,Electronics,C085,Pratyush Behl,sup0030@retailsphere.com,9708454808,25BoFKQ60554z1Z5,2011-09-09,4,Yes
+SUP0031,Parle - New Delhi,Grocery,C117,Dalaja Pandit,sup0031@retailsphere.com,9713348140,21NLRbf45794C1Z5,2022-02-15,3,Yes
+SUP0032,HP India - Jorhat,Electronics,C015,Vedant Bala,sup0032@retailsphere.com,9705363735,22UPrQl26618Y1Z5,2015-08-19,4,Yes
+SUP0033,Nike India - Kargil,Fashion,C121,Amrita Mandal,sup0033@retailsphere.com,9432050686,25dTTqv58330q1Z5,2015-12-30,3,Yes
+SUP0034,Dell Technologies - Puducherry,Electronics,C127,Ojas Iyer,sup0034@retailsphere.com,9506637777,17zfcSm45661a1Z5,2026-05-11,4,Yes
+SUP0035,PepsiCo India - Guwahati,Grocery,C011,Rachana Nagy,sup0035@retailsphere.com,9107328679,13SolwT90794q1Z5,2019-03-22,4,Yes
+SUP0036,Amul - Chandigarh,Grocery,C122,Diya Padmanabhan,sup0036@retailsphere.com,9894632665,12BKDbk49735F1Z5,2019-09-06,5,Yes
+SUP0037,Levi Strauss - Hyderabad,Fashion,C096,Adweta Ray,sup0037@retailsphere.com,9237076341,24fWGyL45816n1Z5,2026-02-13,2,Yes
+SUP0038,Coca-Cola India - Agartala,Grocery,C101,Pavani Shah,sup0038@retailsphere.com,9629791083,12pnGab37085c1Z5,2023-09-29,4,Yes
+SUP0039,Nike India - Coimbatore,Fashion,C092,Indrajit Pal,sup0039@retailsphere.com,9633300934,35lNefR89538q1Z5,2020-04-04,4,Yes
+SUP0040,Adidas India - Gwalior,Fashion,C064,Ishaan Dalal,sup0040@retailsphere.com,9100362049,22mSdpg14638h1Z5,2017-06-09,4,Yes
+SUP0041,Nike India - Gandhinagar,Fashion,C035,Sai Atwal,sup0041@retailsphere.com,9115460013,27LkEvu95402u1Z5,2017-03-18,3,Yes
+SUP0042,Dell Technologies - Bilaspur,Electronics,C023,Zansi Murthy,sup0042@retailsphere.com,9434451456,37MtFek09865a1Z5,2024-07-08,3,Yes
+SUP0043,PepsiCo India - Jamshedpur,Grocery,C047,Saanvi Batra,sup0043@retailsphere.com,9946856405,35kDaGf58492y1Z5,2022-01-16,3,Yes
+SUP0044,Coca-Cola India - Raipur,Grocery,C021,Logan Garg,sup0044@retailsphere.com,9251823811,28qhJjm28867R1Z5,2014-01-25,4,Yes
+SUP0045,Bata India - Ludhiana,Fashion,C080,Pooja Saran,sup0045@retailsphere.com,9717050801,24OiCga89465M1Z5,2018-12-22,4,Yes
+SUP0046,Coca-Cola India - Chennai,Grocery,C091,Onveer Parekh,sup0046@retailsphere.com,9312368311,36BLaUF00273n1Z5,2012-10-29,2,Yes
+SUP0047,Lenovo India - Chandigarh,Electronics,C122,Manya Atwal,sup0047@retailsphere.com,9487909948,11mOWJg85617m1Z5,2021-08-31,3,Yes
+SUP0048,Acer India - Agra,Electronics,C105,Gaurika Kade,sup0048@retailsphere.com,9132790518,37vmfGt49664g1Z5,2025-11-29,2,Yes
+SUP0049,Zara India - Madurai,Fashion,C093,Lakshit Bal,sup0049@retailsphere.com,9542455668,18CCtcD28902k1Z5,2013-10-12,5,Yes
+SUP0050,Apple India - Dibrugarh,Electronics,C014,Advik Sandhu,sup0050@retailsphere.com,9762381895,36MDKml04998T1Z5,2015-07-20,5,Yes
+SUP0051,ITC Foods - Mumbai,Grocery,C066,Champak Bumb,sup0051@retailsphere.com,9235178321,11ISeUt90130Y1Z5,2019-12-20,2,Yes
+SUP0052,ITC Foods - Jalandhar,Grocery,C082,Sara Chadha,sup0052@retailsphere.com,9332217626,15bGpGk73701L1Z5,2019-01-29,3,Yes
+SUP0053,Nike India - Vadodara,Fashion,C033,Janani Jani,sup0053@retailsphere.com,9958688436,28Vgcdx99721F1Z5,2013-07-11,4,Yes
+SUP0054,Bata India - Jaipur,Fashion,C085,Jalsa Sane,sup0054@retailsphere.com,9355862324,11XEvLP01882F1Z5,2022-09-10,4,Yes
+SUP0055,Nike India - Kolkata,Fashion,C112,Rayaan Sarraf,sup0055@retailsphere.com,9506796479,37Vriku01010i1Z5,2024-12-02,5,Yes
+SUP0056,Tata Consumer - Haldwani,Grocery,C109,Abhimanyu Mallick,sup0056@retailsphere.com,9703541531,11clNPF22314t1Z5,2015-01-30,3,Yes
+SUP0057,Puma India - New Delhi,Fashion,C117,Eta Ravel,sup0057@retailsphere.com,9295882493,32RbBbw21748X1Z5,2012-04-13,3,Yes
+SUP0058,Nike India - Patna,Fashion,C016,Aarush Dyal,sup0058@retailsphere.com,9924118925,37Rccdi81094G1Z5,2021-02-01,4,Yes
+SUP0059,Zara India - Salem,Fashion,C094,Saksham Pillai,sup0059@retailsphere.com,9596295023,28pSEzW40195P1Z5,2017-03-30,4,Yes
+SUP0060,Lenovo India - Mangaluru,Electronics,C053,Kala Krish,sup0060@retailsphere.com,9576256441,30ticdD79733K1Z5,2019-08-18,4,Yes
+SUP0061,Apple India - Vijayawada,Electronics,C002,Ucchal Mammen,sup0061@retailsphere.com,9169624949,20cCctf44828G1Z5,2020-07-14,5,Yes
+SUP0062,Lenovo India - Muzaffarpur,Electronics,C018,Damini Bandi,sup0062@retailsphere.com,9250000166,38aMwoD60314g1Z5,2025-12-27,4,Yes
+SUP0063,ITC Foods - Ajmer,Grocery,C089,Gautami Mitra,sup0063@retailsphere.com,9260340293,14mboEB37327G1Z5,2022-05-05,2,Yes
+SUP0064,Nike India - Srinagar,Fashion,C118,Nachiket Gola,sup0064@retailsphere.com,9227838379,38UOhWT59282Y1Z5,2026-05-25,4,Yes
+SUP0065,Coca-Cola India - Warangal,Grocery,C097,Caleb Nagy,sup0065@retailsphere.com,9629924408,25gBCAI55358J1Z5,2023-11-25,5,Yes
+SUP0066,Levi Strauss - Imphal,Fashion,C071,Aarini Modi,sup0066@retailsphere.com,9923970019,23sMiTJ81429f1Z5,2016-02-13,4,Yes
+SUP0067,Levi Strauss - Nagpur,Fashion,C068,Harinakshi Suri,sup0067@retailsphere.com,9798734574,34OHtvg79293y1Z5,2015-02-21,5,Yes
+SUP0068,Tata Consumer - Thane,Grocery,C070,Eesha Khalsa,sup0068@retailsphere.com,9717355728,33zFnan63118C1Z5,2020-01-06,5,Yes
+SUP0069,Bata India - Prayagraj,Fashion,C106,Owen Batra,sup0069@retailsphere.com,9905058247,19VEBFe96350A1Z5,2015-08-13,4,Yes
+SUP0070,ITC Foods - Bhagalpur,Grocery,C019,Arjun Murthy,sup0070@retailsphere.com,9241238690,24qpdmL65681H1Z5,2017-02-16,4,Yes
+SUP0071,Nike India - Kota,Fashion,C088,Tanveer Bahl,sup0071@retailsphere.com,9446709839,20yALaq61805z1Z5,2013-07-20,3,Yes
+SUP0072,Apple India - Khammam,Electronics,C099,Sanya Bora,sup0072@retailsphere.com,9993585492,37MAAlW21940x1Z5,2020-05-26,5,Yes
+SUP0073,Acer India - Shillong,Electronics,C072,Brijesh Ramachandran,sup0073@retailsphere.com,9304039476,23JWOWJ90543o1Z5,2022-06-24,5,Yes
+SUP0074,PepsiCo India - Haldwani,Grocery,C109,Girindra Murty,sup0074@retailsphere.com,9928407961,38nNjHE92152z1Z5,2023-01-26,4,Yes
+SUP0075,Puma India - Ponda,Fashion,C030,Udarsh Virk,sup0075@retailsphere.com,9193306615,20CKSPF97392e1Z5,2021-10-07,3,Yes
+SUP0076,ITC Foods - Visakhapatnam,Grocery,C001,Advaith Sen,sup0076@retailsphere.com,9344000690,21WSOCC89930T1Z5,2013-04-30,4,Yes
+SUP0077,HP India - Dehradun,Electronics,C107,Warinder Magar,sup0077@retailsphere.com,9898810007,23QZeeF69741F1Z5,2023-03-10,4,Yes
+SUP0078,LG Electronics - Karimnagar,Electronics,C098,Saanvi Pal,sup0078@retailsphere.com,9642563992,29ucrvR03920Z1Z5,2016-08-11,4,Yes
+SUP0079,Britannia - Thane,Grocery,C070,Daniel Batra,sup0079@retailsphere.com,9814527367,13nUPxf36167t1Z5,2012-04-09,3,Yes
+SUP0080,Nestlé India - Dispur,Grocery,C012,Daksh Peri,sup0080@retailsphere.com,9277221150,20HhoRu84524m1Z5,2018-12-28,4,Yes

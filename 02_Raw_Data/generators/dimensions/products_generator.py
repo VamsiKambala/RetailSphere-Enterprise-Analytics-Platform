@@ -7,6 +7,11 @@ fake=Faker("en_IN")
 
 NUMBER_OF_PRODUCTS=5000
 
+project_root=Path(__file__).resolve().parents[2]
+suppliers_path = project_root / "output" / "dimensions" / "suppliers.csv"
+
+suppliers = pd.read_csv(suppliers_path)
+
 PRODUCT_CATALOG = {
 
     "Electronics": {
@@ -124,6 +129,11 @@ for i in range(1,NUMBER_OF_PRODUCTS+1):
     category=random.choice(list(PRODUCT_CATALOG.keys()))
     subcategory=random.choice(list(PRODUCT_CATALOG[category].keys()))
     brand=random.choice(PRODUCT_CATALOG[category][subcategory])
+    category_suppliers = suppliers[
+    suppliers["PrimaryCategory"] == category]
+    supplier_id = random.choice(
+    category_suppliers["SupplierID"].tolist()
+    )
     variant=random.choice(PRODUCT_VARIANTS)
     product_name=f"{brand} {subcategory} {variant}"
     min_price,max_price=PRICE_RANGE[category]
@@ -140,6 +150,7 @@ for i in range(1,NUMBER_OF_PRODUCTS+1):
     )[0]
     product={
        "Product_id":product_id,
+        "SupplierID": supplier_id,
        "Category":category,
        "SubCategory":subcategory,
        "Brand":brand,
