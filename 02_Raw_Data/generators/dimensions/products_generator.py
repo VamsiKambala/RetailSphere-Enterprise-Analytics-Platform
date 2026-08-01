@@ -125,7 +125,7 @@ for i in range(1,NUMBER_OF_PRODUCTS+1):
     subcategory=random.choice(list(PRODUCT_CATALOG[category].keys()))
     brand=random.choice(PRODUCT_CATALOG[category][subcategory])
     variant=random.choice(PRODUCT_VARIANTS)
-    product_name=f"{brand}{subcategory}{variant}"
+    product_name=f"{brand} {subcategory} {variant}"
     min_price,max_price=PRICE_RANGE[category]
     selling_price=random.randint(min_price,max_price)
     min_margin,max_margin=MARGIN_RANGE[category]
