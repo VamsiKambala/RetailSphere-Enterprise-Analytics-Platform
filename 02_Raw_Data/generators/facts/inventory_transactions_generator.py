@@ -72,7 +72,14 @@ for _, store in stores.iterrows():
 
     store_id = store["StoreID"]
 
-    for _, product in products.iterrows():
+    number_of_products = random.randint(1200, 2500)
+
+    selected_products = products.sample(
+        n=number_of_products,
+        replace=False
+    )
+
+    for _, product in selected_products.iterrows():
 
         inventory.append({
 
@@ -238,3 +245,5 @@ print(
     inventory_df["SourceType"]
     .value_counts()
 )
+print("Rows before saving:", len(inventory_df))
+print(inventory_df["SourceType"].value_counts())
