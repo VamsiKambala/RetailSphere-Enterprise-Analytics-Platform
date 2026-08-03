@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment Variables
+.env
+
+# macOS
+.DS_Store
