@@ -4229,3 +4229,4 @@ DateId,Date,Day,DayName,DayOfWeek,WeekOfYear,Month,MonthName,Quarter,Year,IsWeek
 20260729,2026-07-29,29,Wednesday,3,31,7,July,Q3,2026,No,FY2026-27
 20260730,2026-07-30,30,Thursday,4,31,7,July,Q3,2026,No,FY2026-27
 20260731,2026-07-31,31,Friday,5,31,7,July,Q3,2026,No,FY2026-27
+20260801,2026-08-01,1,Saturday,6,31,8,August,Q3,2026,Yes,FY2026-27

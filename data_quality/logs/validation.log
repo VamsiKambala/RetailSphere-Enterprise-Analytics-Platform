@@ -1,0 +1,68 @@
+logging.basicConfig(
+
+    filename="data_quality/logs/validation.log",
+
+    level=logging.INFO, 
+
+    format="%(asctime)s - %(levelname)s - %(message)s"
+
+)
+2026-08-03 22:32:41,162 | INFO | Loading Dimension Tables
+2026-08-03 22:32:41,387 | INFO | Loading Fact Tables
+2026-08-03 22:32:42,350 | INFO | Running Primary Key Validation
+2026-08-03 22:32:42,440 | INFO | Running Foreign Key Validation
+2026-08-03 22:32:42,507 | INFO | Running Null Validation
+2026-08-03 22:36:06,261 | INFO | Loading Dimension Tables
+2026-08-03 22:36:06,522 | INFO | Loading Fact Tables
+2026-08-03 22:36:07,376 | INFO | Running Primary Key Validation
+2026-08-03 22:36:07,460 | INFO | Running Foreign Key Validation
+2026-08-03 22:36:07,533 | INFO | Running Null Validation
+2026-08-03 22:36:07,612 | INFO | Running Duplicate Validation
+2026-08-03 22:36:07,714 | INFO | Running Business Rule Validation
+2026-08-03 22:36:07,719 | INFO | Generating Validation Report
+2026-08-03 22:36:07,720 | INFO | Validation Framework Completed Successfully
+2026-08-03 22:37:20,797 | INFO | Loading Dimension Tables
+2026-08-03 22:37:21,077 | INFO | Loading Fact Tables
+2026-08-03 22:37:21,959 | INFO | Running Primary Key Validation
+2026-08-03 22:37:22,072 | INFO | Running Foreign Key Validation
+2026-08-03 22:37:22,164 | INFO | Running Null Validation
+2026-08-03 22:37:22,255 | INFO | Running Duplicate Validation
+2026-08-03 22:37:22,374 | INFO | Running Business Rule Validation
+2026-08-03 22:37:22,374 | INFO | Generating Validation Report
+2026-08-03 22:37:22,382 | INFO | Validation Framework Completed Successfully
+2026-08-03 22:38:19,277 | INFO | Loading Dimension Tables
+2026-08-03 22:38:19,491 | INFO | Loading Fact Tables
+2026-08-03 22:38:20,328 | INFO | Running Primary Key Validation
+2026-08-03 22:38:20,404 | INFO | Running Foreign Key Validation
+2026-08-03 22:38:20,478 | INFO | Running Null Validation
+2026-08-03 22:38:20,551 | INFO | Running Duplicate Validation
+2026-08-03 22:38:20,681 | INFO | Running Business Rule Validation
+2026-08-03 22:38:20,683 | INFO | Generating Validation Report
+2026-08-03 22:38:20,686 | INFO | Validation Framework Completed Successfully
+2026-08-03 22:39:09,526 | INFO | Loading Dimension Tables
+2026-08-03 22:39:09,738 | INFO | Loading Fact Tables
+2026-08-03 22:39:10,668 | INFO | Running Primary Key Validation
+2026-08-03 22:39:10,748 | INFO | Running Foreign Key Validation
+2026-08-03 22:39:10,844 | INFO | Running Null Validation
+2026-08-03 22:39:10,929 | INFO | Running Duplicate Validation
+2026-08-03 22:39:11,069 | INFO | Running Business Rule Validation
+2026-08-03 22:39:11,077 | INFO | Generating Validation Report
+2026-08-03 22:39:11,077 | INFO | Validation Framework Completed Successfully
+2026-08-03 22:47:10,242 | INFO | Loading Dimension Tables
+2026-08-03 22:47:10,520 | INFO | Loading Fact Tables
+2026-08-03 22:47:11,429 | INFO | Running Primary Key Validation
+2026-08-03 22:47:11,511 | INFO | Running Foreign Key Validation
+2026-08-03 22:47:11,584 | INFO | Running Null Validation
+2026-08-03 22:47:11,742 | INFO | Running Duplicate Validation
+2026-08-03 22:47:12,065 | INFO | Running Business Rule Validation
+2026-08-03 22:47:12,065 | INFO | Generating Validation Report
+2026-08-03 22:47:12,074 | INFO | Validation Framework Completed Successfully
+2026-08-03 22:49:15,904 | INFO | Loading Dimension Tables
+2026-08-03 22:49:16,109 | INFO | Loading Fact Tables
+2026-08-03 22:49:17,036 | INFO | Running Primary Key Validation
+2026-08-03 22:49:17,118 | INFO | Running Foreign Key Validation
+2026-08-03 22:49:17,209 | INFO | Running Null Validation
+2026-08-03 22:49:17,372 | INFO | Running Duplicate Validation
+2026-08-03 22:49:17,740 | INFO | Running Business Rule Validation
+2026-08-03 22:49:17,748 | INFO | Generating Validation Report
+2026-08-03 22:49:17,753 | INFO | Validation Framework Completed Successfully
